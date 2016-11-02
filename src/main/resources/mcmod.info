@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fyresmodjam",
+  "name": "The You Will Die Mod",
+  "description": "The You Will Die Mod by xFyreStorm.",
+  "version": "v1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["xFyreStorm"],
+  "credits": "xFyreStorm - All",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
